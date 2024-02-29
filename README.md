@@ -2,14 +2,17 @@
 
 Integrantes do Grupo
 
+Alexandre Goulart
+RA 2222102282
+
 Beatriz Mota de Sousa
 RA 2322104452
 
 Carlos Eduardo Da Silva 
 RA 2222100780
 
-Alexandre Goulart
-RA 2222102282
+Diego Alves de Souza
+RA 2222103417
 
 Matheus da Silva Santos
 RA 2222106622
