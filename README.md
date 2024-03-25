@@ -17,6 +17,9 @@ RA 2222103417
 Matheus da Silva Santos
 RA 2222106622
 
+Leonardo Alves Do Nascimento
+RA 2222107189
+
 
 Nome da Empresa: AiNet Solutions
 Ramo: Consultoria e Acessoria
